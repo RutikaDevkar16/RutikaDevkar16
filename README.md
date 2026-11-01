@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:38B2AC&height=180&section=header&text=Rutika%20Devkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Advanced%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Tableau&descSize=17&descAlignY=60" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F4C81&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+business+insights;Advanced+Excel+%E2%80%A2+Dashboards+%E2%80%A2+KPIs+%E2%80%A2+EDA;IEEE+IC3ET+2026+Published+Author" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F4C81&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+clear+business+insights;Adv+Excel+%E2%80%A2+Dashboards+%E2%80%A2+KPIs+%E2%80%A2+EDA;IEEE+IC3ET+2026+Published+Author" alt="typing"/>
 
 <br/>
 
