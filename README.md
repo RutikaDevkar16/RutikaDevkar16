@@ -25,7 +25,14 @@ tools:      [SQL, Python, Power BI, Tableau, Advanced Excel, Power Query]
 currently:  Data Analysis training with BNP Paribas · Open to Data Analyst roles
 ```
 
-Detail-oriented Data Analyst who enjoys finding the story hidden in messy data. I work across the full analytics cycle: cleaning and transforming raw data, running exploratory analysis in Python and SQL, and building interactive Power BI, Tableau and Excel dashboards that help teams make decisions. I also have hands-on experience applying deep learning in PyTorch and shipping models behind web apps.
+Detail-oriented Data Analyst who enjoys finding the story hidden in messy data. I work across the full analytics cycle: cleaning and transforming raw data, running exploratory analysis in Python and SQL, and building interactive Power BI, Tableau and Advanced Excel dashboards that help teams make decisions. I also have hands-on experience applying deep learning in PyTorch and shipping models behind web apps.
+
+**Core strengths**
+
+- 📊 **Advanced Excel** – Pivot Tables, Power Query, calculated fields, advanced formulas (XLOOKUP, INDEX/MATCH, SUMIFS), slicers, conditional formatting and interactive dashboards
+- 🗄️ **SQL** – joins, aggregations, CTEs and window functions for sales, revenue and trend analysis
+- 🐍 **Python** – Pandas and NumPy for cleaning and EDA, Matplotlib and Seaborn for visualisation
+- 📈 **BI Dashboards** – Power BI and Tableau with well-defined KPIs and interactive filtering
 
 ---
 
@@ -41,11 +48,18 @@ Detail-oriented Data Analyst who enjoys finding the story hidden in messy data. 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+**Spreadsheets & Reporting**
+
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel Dashboards](https://img.shields.io/badge/Excel_Dashboards-0B5F32?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
 **Visualisation & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
@@ -89,6 +103,11 @@ Detail-oriented Data Analyst who enjoys finding the story hidden in messy data. 
     </td>
   </tr>
 </table>
+
+**Other analytics work**
+
+- 🏨 **Hotel Booking Cancellation Analysis (Advanced Excel)** – cleaned and transformed raw booking data, computed Cancellation Rate, Booking Source and Room Status metrics with calculated fields and formulas, and built an interactive dashboard with Pivot Tables and slicers.
+- 🍕 **Pizza Sales Analysis (SQL)** – queried total orders, revenue, best-selling sizes and types using joins and aggregations; analysed order distribution by time and cumulative revenue trends with window functions.
 
 ---
 
